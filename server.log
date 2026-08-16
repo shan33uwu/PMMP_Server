@@ -1,0 +1,58 @@
+2026-08-16 [07:19:32.522] [Server thread/INFO]: Loading server configuration
+2026-08-16 [07:19:32.536] [Server thread/INFO]: 已选择 中文 (简体) (chs) 作为基础语言
+2026-08-16 [07:19:32.537] [Server thread/INFO]: 正在启动 Minecraft: Bedrock Edition 服务器，版本号：v26.30
+2026-08-16 [07:19:32.541] [Server thread/INFO]: 在线模式已启用，服务器将验证玩家是否登录到Xbox Live。
+2026-08-16 [07:19:32.739] [Server thread/INFO]: 此服务器正在运行 PocketMine-MP 版本 5.44.3
+2026-08-16 [07:19:32.739] [Server thread/INFO]: PocketMine-MP 根据LGPL协议分发
+2026-08-16 [07:19:33.090] [Server thread/INFO]: Loading resource packs...
+2026-08-16 [07:19:33.225] [Server thread/INFO]: 正在准备世界 "world"
+2026-08-16 [07:19:33.238] [Server thread/NOTICE]: 正在后台生成世界 "world" 的出生点地形
+2026-08-16 [07:19:33.644] [Server thread/INFO]: Minecraft 网络接口运行在 0.0.0.0:19132
+2026-08-16 [07:19:33.644] [Server thread/INFO]: GS4 状态监听器运行在 0.0.0.0:19132
+2026-08-16 [07:19:33.670] [Server thread/INFO]: Minecraft 网络接口运行在 [::]:19133
+2026-08-16 [07:19:33.670] [Server thread/INFO]: GS4 状态监听器运行在 [::]:19133
+2026-08-16 [07:19:33.671] [Server thread/INFO]: 默认游戏模式：创造模式
+2026-08-16 [07:19:33.671] [Server thread/INFO]: 
+
+- Chat on Discord: https://discord.pmmp.io
+- Documentation: https://doc.pmmp.io
+- Source code: https://github.com/pmmp/PocketMine-MP
+- Free plugins: https://poggit.pmmp.io/plugins
+- Donations: https://patreon.com/pocketminemp
+- Translate: https://translate.pocketmine.net
+- Bug reporting: https://github.com/pmmp/PocketMine-MP/issues
+
+2026-08-16 [07:19:33.671] [Server thread/INFO]: 加载完成 (1.151 秒)！如需帮助，请键入 "help" 或 "?"
+2026-08-16 [07:19:33.694] [Server thread/INFO]: [Memory Manager] [Cyclic Garbage Collector] Run #1 took 11.18 ms (116523 -> 265 roots, 62 cycles collected) - cumulative GC time: 11.18 ms
+2026-08-16 [07:19:33.753] [Server thread/INFO]: [World: world] 生成出生点地形: 1 / 224 (0%)
+2026-08-16 [07:19:33.756] [AsyncWorker#11 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 3.82 ms (45012 -> 0 roots, 0 cycles collected) - cumulative GC time: 3.82 ms
+2026-08-16 [07:19:33.756] [AsyncWorker#12 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 3.78 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 3.78 ms
+2026-08-16 [07:19:33.759] [AsyncWorker#3 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 3.53 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 3.53 ms
+2026-08-16 [07:19:33.762] [AsyncWorker#2 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 3.17 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 3.17 ms
+2026-08-16 [07:19:33.766] [AsyncWorker#4 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 4.68 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 4.68 ms
+2026-08-16 [07:19:33.778] [AsyncWorker#7 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 4.28 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 4.28 ms
+2026-08-16 [07:19:33.783] [AsyncWorker#16 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 6.84 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 6.84 ms
+2026-08-16 [07:19:33.784] [AsyncWorker#14 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 5.06 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 5.06 ms
+2026-08-16 [07:19:33.791] [AsyncWorker#6 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 3.92 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 3.92 ms
+2026-08-16 [07:19:33.791] [AsyncWorker#10 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 4.09 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 4.09 ms
+2026-08-16 [07:19:33.793] [AsyncWorker#13 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 5.28 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 5.28 ms
+2026-08-16 [07:19:33.794] [AsyncWorker#8 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 3.72 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 3.72 ms
+2026-08-16 [07:19:33.801] [AsyncWorker#17 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 3.97 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 3.97 ms
+2026-08-16 [07:19:33.803] [AsyncWorker#15 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 4.57 ms (45012 -> 0 roots, 0 cycles collected) - cumulative GC time: 4.57 ms
+2026-08-16 [07:19:33.807] [AsyncWorker#9 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 4.07 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 4.07 ms
+2026-08-16 [07:19:33.808] [AsyncWorker#1 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 3.83 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 3.83 ms
+2026-08-16 [07:19:33.810] [AsyncWorker#5 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 4.34 ms (45011 -> 0 roots, 0 cycles collected) - cumulative GC time: 4.34 ms
+2026-08-16 [07:19:33.812] [Server thread/INFO]: [World: world] 生成出生点地形: 23 / 224 (10%)
+2026-08-16 [07:19:33.846] [Server thread/INFO]: [World: world] 生成出生点地形: 45 / 224 (20%)
+2026-08-16 [07:19:33.876] [Server thread/INFO]: [World: world] 生成出生点地形: 68 / 224 (30%)
+2026-08-16 [07:19:33.897] [Server thread/INFO]: [World: world] 生成出生点地形: 90 / 224 (40%)
+2026-08-16 [07:19:33.917] [Server thread/INFO]: [World: world] 生成出生点地形: 112 / 224 (50%)
+2026-08-16 [07:19:33.935] [Server thread/INFO]: [World: world] 生成出生点地形: 135 / 224 (60%)
+2026-08-16 [07:19:33.953] [Server thread/INFO]: [World: world] 生成出生点地形: 157 / 224 (70%)
+2026-08-16 [07:19:33.967] [Server thread/INFO]: [World: world] 生成出生点地形: 180 / 224 (80%)
+2026-08-16 [07:19:33.989] [Server thread/INFO]: [World: world] 生成出生点地形: 202 / 224 (90%)
+2026-08-16 [07:19:34.265] [AsyncWorker#0 thread/INFO]: [Cyclic Garbage Collector] Run #1 took 4.17 ms (45016 -> 0 roots, 0 cycles collected) - cumulative GC time: 4.17 ms
+2026-08-16 [07:19:34.305] [Server thread/INFO]: [World: world] 生成出生点地形: 224 / 224 (100%)
+2026-08-16 [07:19:49.735] [Server thread/INFO]: [CONSOLE: 正在关闭服务器]
+2026-08-16 [07:19:49.797] [Server thread/INFO]: 正在卸载世界 "world"
+2026-08-16 [07:19:50.156] [Server thread/INFO]: Stopping other threads
